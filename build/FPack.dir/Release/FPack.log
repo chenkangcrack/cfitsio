@@ -1,0 +1,23 @@
+﻿  Building Custom Rule C:/Users/chenk/Downloads/cfit-3.47/cfitsio-3.47/CMakeLists.txt
+  fpack.c
+  fpackutil.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fpack.c(323,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fpackutil.c(135,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fpackutil.c(403,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fpackutil.c(409,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fpackutil.c(462,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fpackutil.c(473,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fpackutil.c(503,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fpackutil.c(519,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fpackutil.c(528,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fpackutil.c(565,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fpackutil.c(575,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fpackutil.c(697,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fpackutil.c(707,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fpackutil.c(732,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fpackutil.c(741,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fpackutil.c(911,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fpackutil.c(1292,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fpackutil.c(1296,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  FPack.vcxproj -> C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\build\Release\FPack.exe

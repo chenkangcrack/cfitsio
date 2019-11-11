@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\buffers.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\cfileio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\checksum.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\drvrfile.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\drvrmem.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\drvrnet.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\editcol.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\edithdu.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\eval_f.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\eval_l.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\eval_y.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\f77_wrap1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\f77_wrap2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\f77_wrap3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\f77_wrap4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fits_hcompress.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fits_hdecompress.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fitscore.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getcol.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getcolb.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getcold.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getcole.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getcoli.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getcolj.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getcolk.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getcoll.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getcols.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getcolsb.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getcolui.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getcoluj.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getcoluk.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getkey.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\group.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\grparser.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\histo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\imcompress.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\iraffits.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\modkey.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\pliocomp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putcol.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putcolb.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putcold.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putcole.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putcoli.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putcolj.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putcolk.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putcoll.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putcols.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putcolsb.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putcolu.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putcolui.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putcoluj.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putcoluk.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putkey.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\quantize.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\region.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\ricecomp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\scalnull.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\simplerng.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\swapproc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\wcssub.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\wcsutil.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\zlib\zcompress.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\zlib\zuncompress.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\zlib\adler32.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\zlib\crc32.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\zlib\deflate.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\zlib\infback.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\zlib\inffast.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\zlib\inflate.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\zlib\inftrees.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\zlib\trees.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\zlib\uncompr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\zlib\zutil.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\cfortran.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\drvrgsiftp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\drvrsmem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\eval_defs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\eval_tab.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\f77_wrap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fitsio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fitsio2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fpack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\group.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\grparser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\longnam.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\region.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\simplerng.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\unistd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{2C4C3B64-D155-3FD5-AE19-781D96BC51DE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A19BAD11-8670-30FC-9329-DC080368AD02}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

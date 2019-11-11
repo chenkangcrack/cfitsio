@@ -1,0 +1,10 @@
+C:/Users/chenk/Downloads/cfit-3.47/cfitsio-3.47/build/CMakeFiles/cfitsio.dir
+C:/Users/chenk/Downloads/cfit-3.47/cfitsio-3.47/build/CMakeFiles/TestProg.dir
+C:/Users/chenk/Downloads/cfit-3.47/cfitsio-3.47/build/CMakeFiles/Fitscopy.dir
+C:/Users/chenk/Downloads/cfit-3.47/cfitsio-3.47/build/CMakeFiles/FPack.dir
+C:/Users/chenk/Downloads/cfit-3.47/cfitsio-3.47/build/CMakeFiles/cookbook.dir
+C:/Users/chenk/Downloads/cfit-3.47/cfitsio-3.47/build/CMakeFiles/Funpack.dir
+C:/Users/chenk/Downloads/cfit-3.47/cfitsio-3.47/build/CMakeFiles/INSTALL.dir
+C:/Users/chenk/Downloads/cfit-3.47/cfitsio-3.47/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/chenk/Downloads/cfit-3.47/cfitsio-3.47/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/chenk/Downloads/cfit-3.47/cfitsio-3.47/build/CMakeFiles/ZERO_CHECK.dir

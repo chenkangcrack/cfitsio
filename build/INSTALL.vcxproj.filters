@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\build\CMakeFiles\8dc187363879c1a7abf52a27c63aa2d3\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{DF212FA7-9829-351B-8234-0E180C8AEA8E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

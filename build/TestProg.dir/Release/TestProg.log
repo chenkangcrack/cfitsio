@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/chenk/Downloads/cfit-3.47/cfitsio-3.47/CMakeLists.txt
+  testprog.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\testprog.c(97,32): warning C4311: 'type cast': pointer truncation from 'fitsfile *' to 'unsigned long'
+  TestProg.vcxproj -> C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\build\Release\TestProg.exe

@@ -1,0 +1,395 @@
+﻿  Building Custom Rule C:/Users/chenk/Downloads/cfit-3.47/cfitsio-3.47/CMakeLists.txt
+  buffers.c
+  cfileio.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\cfileio.c(216,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\cfileio.c(419,11): warning C4101: 'saveptr': unreferenced local variable
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\cfileio.c(682,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\cfileio.c(839,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\cfileio.c(2058,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\cfileio.c(1968,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\cfileio.c(3241,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\cfileio.c(3268,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\cfileio.c(3292,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\cfileio.c(4045,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\cfileio.c(5358,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\cfileio.c(5475,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\cfileio.c(5574,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\cfileio.c(5580,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\cfileio.c(5603,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\cfileio.c(6004,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\cfileio.c(6124,33): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\cfileio.c(6211,33): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\cfileio.c(6508,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\cfileio.c(6522,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\cfileio.c(6805,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\cfileio.c(6822,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\cfileio.c(6825,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\cfileio.c(6837,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\cfileio.c(6840,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\cfileio.c(7093,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\cfileio.c(7152,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\cfileio.c(7208,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  checksum.c
+  drvrfile.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\cfileio.c(7431,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\drvrfile.c(115,51): warning C4267: 'function': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\drvrfile.c(360,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\drvrfile.c(365,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\drvrfile.c(384,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  drvrmem.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\drvrfile.c(389,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\drvrmem.c(273,23): warning C4018: '>': signed/unsigned mismatch
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\drvrmem.c(515,46): warning C4267: 'function': conversion from 'size_t' to 'long', possible loss of data
+  drvrnet.c
+  editcol.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\drvrmem.c(522,50): warning C4267: 'function': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\editcol.c(1874,27): warning C4101: 'maxloop': unreferenced local variable
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\editcol.c(1875,10): warning C4101: 'firstrow': unreferenced local variable
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\editcol.c(1874,50): warning C4101: 'npixels': unreferenced local variable
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\editcol.c(1875,20): warning C4101: 'firstelem': unreferenced local variable
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\editcol.c(1874,18): warning C4101: 'outloop': unreferenced local variable
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\editcol.c(1871,47): warning C4101: 'anynull': unreferenced local variable
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\editcol.c(1873,51): warning C4101: 'nrows': unreferenced local variable
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\editcol.c(1878,24): warning C4101: 'nullflag': unreferenced local variable
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\editcol.c(1874,10): warning C4101: 'inloop': unreferenced local variable
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\editcol.c(1875,31): warning C4101: 'ii': unreferenced local variable
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\editcol.c(1874,36): warning C4101: 'ndone': unreferenced local variable
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\editcol.c(1874,43): warning C4101: 'ntodo': unreferenced local variable
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\editcol.c(1873,58): warning C4101: 'outrows': unreferenced local variable
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\editcol.c(2189,40): warning C4244: 'function': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\editcol.c(2253,25): warning C4244: 'function': conversion from 'LONGLONG' to 'int', possible loss of data
+  edithdu.c
+  eval_f.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\editcol.c(2758,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\eval_f.c(875,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  eval_l.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\eval_f.c(877,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+<stdout>(966,3): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+eval.l(147,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+eval.l(159,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+eval.l(219,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+eval.l(340,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+eval.l(351,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+eval.l(370,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+<stdout>(1582,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+<stdout>(1546,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+<stdout>(1560,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+<stdout>(1713,56): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+<stdout>(1750,1): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+<stdout>(1937,1): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fileno. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2459): message : see declaration of 'fileno'
+<stdout>(2053,51): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+<stdout>(2091,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  eval_y.c
+<stdout>(2113,43): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+y.tab.c(532,24): warning C4273: 'malloc': inconsistent dll linkage
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_malloc.h(97,15): message : see previous definition of 'malloc'
+y.tab.c(539,19): warning C4273: 'free': inconsistent dll linkage
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_malloc.h(85,14): message : see previous definition of 'free'
+eval.y(341,110): warning C4267: 'function': conversion from 'size_t' to 'long', possible loss of data
+eval.y(342,56): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+eval.y(1059,98): warning C4267: 'function': conversion from 'size_t' to 'long', possible loss of data
+eval.y(1060,70): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+eval.y(2883,38): warning C4311: 'type cast': pointer truncation from 'char *' to 'long'
+eval.y(2916,40): warning C4312: 'type cast': conversion from 'long' to 'char *' of greater size
+eval.y(3064,38): warning C4311: 'type cast': pointer truncation from 'char *' to 'long'
+eval.y(3097,40): warning C4312: 'type cast': conversion from 'long' to 'char *' of greater size
+eval.y(3653,61): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+eval.y(3968,24): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+eval.y(4006,24): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+eval.y(4865,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+eval.y(4916,56): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+eval.y(5428,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+eval.y(5429,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+eval.y(5491,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+eval.y(5492,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+eval.y(5534,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+eval.y(5535,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+eval.y(5576,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+eval.y(5590,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+eval.y(5591,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  f77_wrap1.c
+  f77_wrap2.c
+  f77_wrap3.c
+  f77_wrap4.c
+eval.y(5696,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\f77_wrap4.c(177,33): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\f77_wrap4.c(179,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\f77_wrap4.c(398,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  fits_hcompress.c
+  fits_hdecompress.c
+  fitscore.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\f77_wrap4.c(468,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fitscore.c(1111,54): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fitscore.c(1038,11): warning C4101: 'saveptr': unreferenced local variable
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fitscore.c(1285,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fitscore.c(1397,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fitscore.c(1425,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fitscore.c(1454,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fitscore.c(1563,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fitscore.c(1623,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fitscore.c(1635,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fitscore.c(1638,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fitscore.c(1674,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fitscore.c(1681,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fitscore.c(1723,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fitscore.c(1767,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fitscore.c(1777,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fitscore.c(1799,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fitscore.c(1867,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fitscore.c(1870,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fitscore.c(2177,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fitscore.c(3441,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fitscore.c(3444,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fitscore.c(6677,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fitscore.c(7816,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fitscore.c(7844,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fitscore.c(7863,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  getcol.c
+  getcolb.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\fitscore.c(8835,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  getcold.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getcolb.c(1920,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  getcole.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getcold.c(1594,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  getcoli.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getcole.c(1596,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  getcolj.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getcoli.c(1822,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getcolj.c(1806,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  getcolk.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getcolj.c(3715,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  getcoll.c
+  getcols.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getcolk.c(1815,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getcols.c(302,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getcols.c(360,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getcols.c(495,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getcols.c(536,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  getcolsb.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getcols.c(807,27): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getcolsb.c(1395,49): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getcolsb.c(1467,53): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+  getcolui.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getcolsb.c(1905,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  getcoluj.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getcolui.c(1827,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getcoluj.c(1827,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  getcoluk.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getcoluj.c(3755,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  getkey.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getcoluk.c(1835,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getkey.c(117,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getkey.c(345,50): warning C4244: '=': conversion from 'LONGLONG' to 'unsigned int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getkey.c(355,41): warning C4244: '=': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getkey.c(369,52): warning C4244: '=': conversion from 'LONGLONG' to 'unsigned long', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getkey.c(379,41): warning C4244: '=': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getkey.c(289,12): warning C4101: 'doubleval': unreferenced local variable
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getkey.c(506,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getkey.c(658,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getkey.c(719,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getkey.c(840,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getkey.c(846,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getkey.c(853,44): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getkey.c(912,52): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getkey.c(957,60): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getkey.c(1021,52): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getkey.c(1066,60): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getkey.c(1082,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getkey.c(1307,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getkey.c(1310,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getkey.c(1347,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getkey.c(1350,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getkey.c(1475,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getkey.c(1554,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getkey.c(1635,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getkey.c(1716,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getkey.c(1797,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  group.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\getkey.c(1878,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\group.c(4985,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\group.c(4998,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\group.c(5072,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\group.c(5073,70): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\group.c(5399,18): warning C4101: 'saveptr': unreferenced local variable
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\group.c(5664,1): warning C4996: 'getcwd': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getcwd. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\direct.h(94): message : see declaration of 'getcwd'
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\group.c(5975,22): warning C4311: 'type cast': pointer truncation from 'char *' to 'long'
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\group.c(5975,37): warning C4311: 'type cast': pointer truncation from 'char [1025]' to 'long'
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\group.c(5997,22): warning C4311: 'type cast': pointer truncation from 'char *' to 'long'
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\group.c(5997,37): warning C4311: 'type cast': pointer truncation from 'char [1025]' to 'long'
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\group.c(6065,9): warning C4101: 'saveptr': unreferenced local variable
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\group.c(6288,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\group.c(6289,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  grparser.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\group.c(6470,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\grparser.c(519,10): warning C4101: 'saveptr': unreferenced local variable
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\grparser.c(754,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\grparser.c(990,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\grparser.c(1170,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  histo.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\grparser.c(1270,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\histo.c(154,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\histo.c(2502,55): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  imcompress.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\histo.c(2528,49): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\imcompress.c(1167,49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\imcompress.c(1180,49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\imcompress.c(1935,28): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\imcompress.c(1938,28): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\imcompress.c(1941,28): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\imcompress.c(2104,29): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\imcompress.c(8454,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\imcompress.c(8553,83): warning C4267: 'function': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\imcompress.c(8555,93): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\imcompress.c(8556,36): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\imcompress.c(8560,81): warning C4267: 'function': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\imcompress.c(8562,86): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\imcompress.c(8563,36): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\imcompress.c(8567,94): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\imcompress.c(8568,36): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\imcompress.c(8920,22): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\imcompress.c(8922,58): warning C4267: 'function': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\imcompress.c(8933,23): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\imcompress.c(8935,58): warning C4267: 'function': conversion from 'size_t' to 'long', possible loss of data
+  iraffits.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\imcompress.c(8946,19): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\iraffits.c(322,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\iraffits.c(384,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\iraffits.c(452,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\iraffits.c(463,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\iraffits.c(711,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\iraffits.c(884,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\iraffits.c(975,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\iraffits.c(993,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\iraffits.c(1011,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\iraffits.c(1374,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\iraffits.c(1412,15): warning C4101: 'saveptr': unreferenced local variable
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\iraffits.c(1580,29): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\iraffits.c(1589,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\iraffits.c(1675,29): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\iraffits.c(1684,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\iraffits.c(1727,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\iraffits.c(1751,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\iraffits.c(1869,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\iraffits.c(1908,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\iraffits.c(1909,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\iraffits.c(1974,29): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\iraffits.c(1979,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\iraffits.c(2046,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\iraffits.c(2092,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  modkey.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\iraffits.c(2097,17): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\modkey.c(449,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\modkey.c(457,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\modkey.c(647,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\modkey.c(655,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\modkey.c(719,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\modkey.c(743,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\modkey.c(768,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\modkey.c(1217,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\modkey.c(1242,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\modkey.c(1267,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\modkey.c(1612,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\modkey.c(1621,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\modkey.c(1704,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\modkey.c(1712,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\modkey.c(1764,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  pliocomp.c
+  putcol.c
+  Generating Code...
+  Compiling...
+  putcolb.c
+  putcold.c
+  putcole.c
+  putcoli.c
+  putcolj.c
+  putcolk.c
+  putcoll.c
+  putcols.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\modkey.c(1772,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  putcolsb.c
+  putcolu.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putcols.c(68,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putcolu.c(167,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  putcolui.c
+  putcoluj.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putcolu.c(408,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putcoluj.c(1010,19): warning C4101: 'nullvalue': unreferenced local variable
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putcoluj.c(1109,30): warning C4101: 'lpixel': unreferenced local variable
+  putcoluk.c
+  putkey.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putcoluj.c(1767,39): warning C4244: '=': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putkey.c(318,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putkey.c(414,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putkey.c(416,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putkey.c(442,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putkey.c(464,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putkey.c(957,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putkey.c(986,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putkey.c(1188,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putkey.c(1394,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putkey.c(1562,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putkey.c(1621,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putkey.c(1681,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putkey.c(1739,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putkey.c(1798,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putkey.c(1857,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putkey.c(1916,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putkey.c(1975,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  quantize.c
+  region.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\putkey.c(2617,14): warning C4101: 'colptr': unreferenced local variable
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\region.c(109,33): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\region.c(121,46): warning C4267: '+=': conversion from 'size_t' to 'long', possible loss of data
+  ricecomp.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\region.c(327,44): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\ricecomp.c(299,44): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\ricecomp.c(528,44): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  scalnull.c
+  simplerng.c
+  swapproc.c
+  Generating Code...
+  Compiling...
+  wcssub.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\ricecomp.c(753,44): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\wcssub.c(869,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\wcssub.c(879,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\wcssub.c(954,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\wcssub.c(964,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\wcssub.c(974,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\wcssub.c(984,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\wcssub.c(994,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\wcssub.c(1004,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\wcssub.c(1014,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\wcssub.c(1024,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  wcsutil.c
+  zcompress.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\wcssub.c(1034,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\zlib\zcompress.c(103,54): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\zlib\zcompress.c(213,34): warning C4267: '=': conversion from 'size_t' to 'uInt', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\zlib\zcompress.c(216,35): warning C4267: '=': conversion from 'size_t' to 'uInt', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\zlib\zcompress.c(297,58): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\zlib\zcompress.c(397,34): warning C4267: '=': conversion from 'size_t' to 'uInt', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\zlib\zcompress.c(400,35): warning C4267: '=': conversion from 'size_t' to 'uInt', possible loss of data
+  zuncompress.c
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\zlib\zcompress.c(479,34): warning C4267: '=': conversion from 'size_t' to 'uInt', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\zlib\zuncompress.c(423,62): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\zlib\zuncompress.c(498,36): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\zlib\zuncompress.c(512,38): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  adler32.c
+  crc32.c
+  deflate.c
+  infback.c
+  inffast.c
+  inflate.c
+  inftrees.c
+  trees.c
+  uncompr.c
+  zutil.c
+  Generating Code...
+C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\zlib\zuncompress.c(546,66): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+     Creating library C:/Users/chenk/Downloads/cfit-3.47/cfitsio-3.47/build/Release/cfitsio.lib and object C:/Users/chenk/Downloads/cfit-3.47/cfitsio-3.47/build/Release/cfitsio.exp
+  cfitsio.vcxproj -> C:\Users\chenk\Downloads\cfit-3.47\cfitsio-3.47\build\Release\cfitsio.dll
